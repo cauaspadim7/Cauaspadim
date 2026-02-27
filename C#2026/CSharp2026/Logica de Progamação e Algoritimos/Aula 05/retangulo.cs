@@ -1,0 +1,16 @@
+using System.Buffers.Text;
+using System.ComponentModel.Design;
+using static System.Console;
+double Base, Altura, Area, Perimetro, Diagonal, Raiz;
+Write("Digite a base do retângulo:");
+Base = double.Parse(ReadLine());
+Write("Digite a altura do retângulo:");
+Altura = double.Parse(ReadLine());
+Area = Base * Altura;
+Perimetro = 2 * (Base + Altura);
+Diagonal = Base * Base + Altura * Altura;
+Raiz = Math.Sqrt(Diagonal);
+WriteLine($"A área do retângulo é: {Area}");
+WriteLine($"O perímetro do retângulo é: {Perimetro}");
+WriteLine($" o valor da diagonal do retângulo {Diagonal}");
+WriteLine($" o valor da diagonal do retângulo {Raiz}");
