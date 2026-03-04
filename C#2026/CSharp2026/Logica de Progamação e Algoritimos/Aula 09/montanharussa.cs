@@ -1,5 +1,4 @@
 using System;
-
 Console.Write("Digite o número de alturas das pessoas: ");
 int numeroPessoas = int.Parse(Console.ReadLine());
 
@@ -23,3 +22,4 @@ for (int i = 1; i <= numeroPessoas; i++)
 }
 
 Console.WriteLine($"{contador} pessoas que estão entre {alturaMinima} e {alturaMaxima} cm de altura.");
+
