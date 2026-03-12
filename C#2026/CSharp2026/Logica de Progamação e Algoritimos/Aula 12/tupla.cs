@@ -9,5 +9,5 @@ clodoaldo.Item1 =54;
 WriteLine($"idade do clodoaldo: {clodoaldo.Item1}");
 
 (int, int , int) numeros = (1 , 2 ,5);
-WriteLine($"Numeros: {numeros.Item1}, {numeros.Item2}, {numeros.Item3}");
+WriteLine($"Numeros da tupla: {numeros.Item1}, {numeros.Item2}, {numeros.Item3}");
 
