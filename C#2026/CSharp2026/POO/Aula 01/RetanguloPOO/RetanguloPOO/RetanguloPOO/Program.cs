@@ -1,0 +1,22 @@
+﻿ using RetanguloComPOO;
+using static System.Console;
+Retangulo x = new Retangulo();
+Retangulo Y = new Retangulo();
+WriteLine("Digite os dados do retangulo X");
+Write("Digite a largura: ");
+x.Largura = double.Parse(Console.ReadLine());
+Write("Digite a altura: ");
+x.Altura = double.Parse(Console.ReadLine());
+WriteLine("Digite os dados do retangulo Y");
+Write("Digite a largura: ");
+Y.Largura = double.Parse(Console.ReadLine());
+Write("Digite a altura: ");
+Y.Altura = double.Parse(Console.ReadLine());
+WriteLine($"Area do retangulo X = {x.Area()}");
+WriteLine($"Perimetro do retangulo X = {x.Perimetro()}");
+WriteLine($"Diagonal do retangulo X = {x.Diagonal()}");
+WriteLine($"Area do retangulo Y = {Y.Area()}");
+WriteLine($"Perimetro do retangulo Y = {Y.Perimetro()}");
+WriteLine($"Diagonal do retangulo Y = {Y.Diagonal()}");
+
+ReadKey();

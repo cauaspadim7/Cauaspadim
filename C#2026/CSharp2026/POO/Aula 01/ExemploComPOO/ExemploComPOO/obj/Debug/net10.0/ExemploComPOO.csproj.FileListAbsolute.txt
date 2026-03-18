@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\bin\Debug\net10.0\ExemploComPOO.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\bin\Debug\net10.0\ExemploComPOO.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\bin\Debug\net10.0\ExemploComPOO.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\bin\Debug\net10.0\ExemploComPOO.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\bin\Debug\net10.0\ExemploComPOO.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\ExemploComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\ExemploComPOO.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\ExemploComPOO.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\ExemploComPOO.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\ExemploComPOO.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\ExemploComPOO.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\refint\ExemploComPOO.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\ExemploComPOO.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\ExemploComPOO.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\ExemploComPOO\ExemploComPOO\obj\Debug\net10.0\ref\ExemploComPOO.dll

@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\bin\Debug\net10.0\Clodoaldo.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\bin\Debug\net10.0\Clodoaldo.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\bin\Debug\net10.0\Clodoaldo.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\bin\Debug\net10.0\Clodoaldo.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\bin\Debug\net10.0\Clodoaldo.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\Clodoaldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\Clodoaldo.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\Clodoaldo.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\Clodoaldo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\Clodoaldo.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\Clodoaldo.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\refint\Clodoaldo.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\Clodoaldo.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\Clodoaldo.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 00\Clodoaldo\Clodoaldo\obj\Debug\net10.0\ref\Clodoaldo.dll

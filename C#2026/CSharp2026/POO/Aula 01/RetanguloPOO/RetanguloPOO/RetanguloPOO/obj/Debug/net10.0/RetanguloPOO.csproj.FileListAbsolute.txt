@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\bin\Debug\net10.0\RetanguloPOO.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\bin\Debug\net10.0\RetanguloPOO.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\bin\Debug\net10.0\RetanguloPOO.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\bin\Debug\net10.0\RetanguloPOO.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\bin\Debug\net10.0\RetanguloPOO.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\RetanguloPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\RetanguloPOO.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\RetanguloPOO.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\RetanguloPOO.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\RetanguloPOO.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\RetanguloPOO.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\refint\RetanguloPOO.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\RetanguloPOO.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\RetanguloPOO.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 01\RetanguloPOO\RetanguloPOO\RetanguloPOO\obj\Debug\net10.0\ref\RetanguloPOO.dll
