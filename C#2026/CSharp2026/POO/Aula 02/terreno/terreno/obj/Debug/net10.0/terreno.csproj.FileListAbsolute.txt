@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\bin\Debug\net10.0\terreno.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\bin\Debug\net10.0\terreno.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\bin\Debug\net10.0\terreno.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\bin\Debug\net10.0\terreno.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\bin\Debug\net10.0\terreno.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\terreno.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\terreno.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\terreno.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\terreno.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\terreno.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\refint\terreno.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\terreno.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\terreno.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\terreno\obj\Debug\net10.0\ref\terreno.dll

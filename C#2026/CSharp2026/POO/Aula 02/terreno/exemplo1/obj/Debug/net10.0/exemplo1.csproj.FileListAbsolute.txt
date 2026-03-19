@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\exemplo1.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\exemplo1.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\exemplo1.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\bin\Debug\net10.0\exemplo1.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\bin\Debug\net10.0\exemplo1.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\bin\Debug\net10.0\exemplo1.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\bin\Debug\net10.0\exemplo1.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\bin\Debug\net10.0\exemplo1.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\exemplo1.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\refint\exemplo1.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\exemplo1.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\exemplo1.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\terreno\exemplo1\obj\Debug\net10.0\ref\exemplo1.dll
