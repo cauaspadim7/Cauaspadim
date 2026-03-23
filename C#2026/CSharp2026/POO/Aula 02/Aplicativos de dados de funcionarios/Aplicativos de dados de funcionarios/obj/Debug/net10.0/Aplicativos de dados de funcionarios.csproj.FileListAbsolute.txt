@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\bin\Debug\net10.0\Aplicativos de dados de funcionarios.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\bin\Debug\net10.0\Aplicativos de dados de funcionarios.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\bin\Debug\net10.0\Aplicativos de dados de funcionarios.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\bin\Debug\net10.0\Aplicativos de dados de funcionarios.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\bin\Debug\net10.0\Aplicativos de dados de funcionarios.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\Aplicativos de dados de funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\Aplicativos de dados de funcionarios.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\Aplicativos de dados de funcionarios.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\Aplicativos de dados de funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\Aplicativos de dados de funcionarios.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\Aplicativos de dados de funcionarios.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\refint\Aplicativos de dados de funcionarios.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\Aplicativos de dados de funcionarios.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\Aplicativos de dados de funcionarios.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Aplicativos de dados de funcionarios\Aplicativos de dados de funcionarios\obj\Debug\net10.0\ref\Aplicativos de dados de funcionarios.dll

@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\bin\Debug\net10.0\Notas dos aluno.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\bin\Debug\net10.0\Notas dos aluno.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\bin\Debug\net10.0\Notas dos aluno.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\bin\Debug\net10.0\Notas dos aluno.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\bin\Debug\net10.0\Notas dos aluno.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\Notas dos aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\Notas dos aluno.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\Notas dos aluno.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\Notas dos aluno.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\Notas dos aluno.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\Notas dos aluno.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\refint\Notas dos aluno.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\Notas dos aluno.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\Notas dos aluno.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 02\Notas dos aluno\Notas dos aluno\obj\Debug\net10.0\ref\Notas dos aluno.dll
