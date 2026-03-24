@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Circunferencia02/1.0.0": {
+        "runtime": {
+          "Circunferencia02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Circunferencia02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
