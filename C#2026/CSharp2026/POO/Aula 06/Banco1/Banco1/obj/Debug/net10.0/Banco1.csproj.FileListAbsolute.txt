@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\Banco1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\Banco1.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\Banco1.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\Banco1.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\Banco1.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\bin\Debug\net10.0\Banco1.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\bin\Debug\net10.0\Banco1.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\bin\Debug\net10.0\Banco1.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\bin\Debug\net10.0\Banco1.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\bin\Debug\net10.0\Banco1.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\Banco1.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\refint\Banco1.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\Banco1.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\Banco1.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 06\Banco1\Banco1\obj\Debug\net10.0\ref\Banco1.dll
