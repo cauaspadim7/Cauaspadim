@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Circunferencia01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cde7a18d6402c289fa6a0eee6d1e6883e02c9af6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d80305880a20420886320feccf60f727b529c8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Circunferencia01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Circunferencia01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
