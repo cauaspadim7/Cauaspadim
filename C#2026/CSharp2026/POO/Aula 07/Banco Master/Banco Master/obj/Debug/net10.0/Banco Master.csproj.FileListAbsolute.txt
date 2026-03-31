@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\bin\Debug\net10.0\Banco Master.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\bin\Debug\net10.0\Banco Master.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\bin\Debug\net10.0\Banco Master.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\bin\Debug\net10.0\Banco Master.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\bin\Debug\net10.0\Banco Master.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\Banco Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\Banco Master.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\Banco Master.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\Banco Master.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\Banco Master.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\Banco Master.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\refint\Banco Master.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\Banco Master.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\Banco Master.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Banco Master\Banco Master\obj\Debug\net10.0\ref\Banco Master.dll

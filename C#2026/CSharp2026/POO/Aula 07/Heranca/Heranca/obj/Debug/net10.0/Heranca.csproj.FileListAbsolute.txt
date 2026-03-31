@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\Heranca.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\Heranca.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\bin\Debug\net10.0\Heranca.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\bin\Debug\net10.0\Heranca.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\bin\Debug\net10.0\Heranca.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\bin\Debug\net10.0\Heranca.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\bin\Debug\net10.0\Heranca.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\Heranca.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\refint\Heranca.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\Heranca.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\Heranca.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 07\Heranca\Heranca\obj\Debug\net10.0\ref\Heranca.dll

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Heranca.PessoaFissica">
+    <Position X="7" Y="1" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAEAAAAAAAAAAAAAIAAAAAAEAAEgAAAGAAA=</HashCode>
+      <FileName>PessoaFissica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca.PessoaJuridica">
+    <Position X="7" Y="5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAgAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PessoaJuridica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
