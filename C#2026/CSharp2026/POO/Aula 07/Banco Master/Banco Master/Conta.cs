@@ -1,4 +1,6 @@
-﻿namespace Banco_Master
+﻿using Banco_Master;
+
+namespace Banco_Master
 {
     internal class Conta
     {
@@ -50,7 +52,7 @@
 
         public void Saque(double quantia)
         {
-            SaldoConta -= quantia;
+            SaldoConta -= quantia + 5.00;
         }
 
         public void Deposito(double quantia)

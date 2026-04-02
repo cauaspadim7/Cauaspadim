@@ -7,10 +7,10 @@
       <FileName>Conta.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Banco_Master.ContaPoupança" Collapsed="true">
+  <Class Name="Banco_Master.ContaPoupança">
     <Position X="9.25" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAACAQAA=</HashCode>
+      <HashCode>AAAAAAAAAAEAIAAAAAAAAAAAIAAAIAAAAAAAAAAAAAA=</HashCode>
       <FileName>ContaPoupança.cs</FileName>
     </TypeIdentifier>
   </Class>

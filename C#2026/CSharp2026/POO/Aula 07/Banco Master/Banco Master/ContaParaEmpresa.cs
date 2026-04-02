@@ -1,24 +1,37 @@
-﻿
-namespace Banco_Master
+﻿using Banco_Master;
+
+namespace BancoMaster
 {
-    internal class ContaParaEmpresa
+    internal class ContaEmpresa : Conta
     {
-        private double LimiteDeEmprestimos ;
-        private double 
+        //Campo
+        private double limite;
 
-        private int myVar;
 
-        public int MyProperty
+        //Propriedade
+        public double LimiteEmprestimo
         {
-            get { return ; }
-            set { LimiteDeEmprestimos = value; }
+            get { return limite; }
+            set { limite = value; }
         }
 
+        //Construtor
+        public ContaEmpresa(int numeroConta, string titularConta, double limite) : base(numeroConta, titularConta)
+        {
+            LimiteEmprestimo = limite;
+        }
 
+        public ContaEmpresa(int numeroConta, string titularConta, double saldoConta, double limite) : base(numeroConta, titularConta, saldoConta)
+        {
+            LimiteEmprestimo = limite;
+        }
 
+        //Método
+        public void Emprestimo(double qtd)
+        {
+            LimiteEmprestimo -= qtd;
+            SaldoConta += qtd;
+        }
 
     }
-
-  
-   }
 }
