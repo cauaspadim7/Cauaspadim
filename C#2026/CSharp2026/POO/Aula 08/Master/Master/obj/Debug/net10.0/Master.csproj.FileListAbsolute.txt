@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\bin\Debug\net10.0\Master.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\bin\Debug\net10.0\Master.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\bin\Debug\net10.0\Master.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\bin\Debug\net10.0\Master.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\bin\Debug\net10.0\Master.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\Master.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\Master.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\Master.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\Master.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\Master.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\refint\Master.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\Master.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\Master.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 08\Master\Master\obj\Debug\net10.0\ref\Master.dll

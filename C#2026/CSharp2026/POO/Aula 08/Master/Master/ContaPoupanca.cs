@@ -17,7 +17,7 @@ namespace Master
 			set { rendimento = value; }
 		}
 		//Construtor
-        public ContaPoupanca(int numeroConta, double saldoConta, Pessoa dadosCliente, double Rendimento) : base(numeroConta, saldoConta, dadosCliente)
+        public ContaPoupanca(int numeroConta, double saldoConta, Pessoa dadosCliente, double rendimento) : base(numeroConta, saldoConta, dadosCliente)
         {
 		    RendimentoConta = rendimento;
         }
@@ -27,12 +27,14 @@ namespace Master
 		public void Consulta()
 		{
 			Console.WriteLine($"Dados do cliente:\n" +
-				$"\t Nome: {DadosCliente}\n" +
-				$"\t Numero: {NumeroConta}\n" +
-				$"\t Saldo: {SaldoConta}");
+				$"\t Nome: {DadosCliente.nome}\n" +
+				$"\t CPF: {DadosCliente.cpf}\n" +
+				$"\t Numero:{NumeroConta}\n" +
+				$"\t Saldo: {SaldoConta}\n" +
+			    $"\t Rendimento: {rendimento}%");
 
 
-		}
+        }
 
 	}
 }
