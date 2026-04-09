@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\Figuras.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\Figuras.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\Figuras.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\bin\Debug\net10.0\Figuras.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\bin\Debug\net10.0\Figuras.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\bin\Debug\net10.0\Figuras.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\bin\Debug\net10.0\Figuras.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\bin\Debug\net10.0\Figuras.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\Figuras.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\refint\Figuras.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\Figuras.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\Figuras.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 10\Figuras\Figuras\obj\Debug\net10.0\ref\Figuras.dll
