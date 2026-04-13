@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.exe
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.deps.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.runtimeconfig.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.sourcelink.json
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\refint\Imposto de Renda.dll
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.pdb
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.genruntimeconfig.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\POO\Aula 11\Imposto de Renda\Imposto de Renda\obj\Debug\net10.0\ref\Imposto de Renda.dll
