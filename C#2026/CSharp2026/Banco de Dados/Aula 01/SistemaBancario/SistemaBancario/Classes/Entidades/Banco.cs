@@ -1,67 +1,58 @@
-﻿
-namespace SistemaBancario.Classes.Entidades
+﻿namespace SistemaBancario.Classes.Entidades
 {
     /// <summary>
-    ///  Classe que representa uma conta bancaria com operaçoes básicas
-    ///  Implementa as regras de negocio
+    /// Classe que representa uma conta bancária com operações básicas
+    /// Implementa as regras de negócio
     /// </summary>
     internal class Banco
     {
         //Campo
-        /// <summary>
+        ///<summary>
         /// Taxa fixa cobrada em cada operação de saque
         /// </summary>
+        private const decimal taxaSaque = 5.00m;
 
-        private const double TaxaSaque = 5.00;
 
         //Propriedades
-        /// <summary>
-        /// Identificador unico da conta bancaria no banco de dados (gerado automaticamento)
+        ///<summary>
+        /// Identificador único da conta bancária no banco de dados (gerado automaticamente)
         /// </summary>
-
         public int Id { get; set; }
 
         ///<summary>
         ///Numero da conta bancaria
         ///'init' garante que o valor só pode ser atribuido na criação(imutável após construção)
         /// </summary>
-
         public int NumeroConta { get; init; }
 
         ///<summary>
         ///Nome do titular da conta
-        ///</summary>
-
+        /// </summary>
 
         public string Titular { get; set; }
 
         ///<summary>
-        ///Saldo atual a conta
-        ///'private set' impede alteraçao direta - só pode mudar através de Deposito ou Saque
+        ///Saldo atual da conta
+        ///'private set' impede alteração direta - só pode mudar através de Deposito ou Saque
         /// </summary>
-        public double Saldo { get; private set; }
+        public decimal Saldo { get; private set; }
 
         //Construtores
         /// <summary>
-        /// Construtor privado sem parametros
-        /// Necessarios p/ o Entity Framework instancia a classe ao buscar no banco de dados
-        /// Não deve ser utilizado diretamente no codigo
+        /// Construtor privado sem parâmetros
+        /// Necessário p/ o Entity Framework instanciar a classe ao buscar no banco de dados
+        /// Não deve ser utilizado diretamente no código
         /// </summary>
-
         private Banco()
         {
-
         }
         /// <summary>
-        /// Construtor principal para criar uma nova conta bancaria
+        /// Construtor principal para criar uma nova conta bancária
         /// </summary>
-        /// <param name="numeroConta">Número unico da conta (não pode ser alterado depois)</param>
+        /// <param name="numeroConta">Número único da conta (não pode ser alterado depois)</param>
         /// <param name="titular">Nome do titular da conta</param>
-        /// <param name="saldo">Valor do deposito inicial (opcional, padrao = 0)</param>
-
-
-
-        public Banco(int numeroConta, string titular, double saldo)
+        /// <param name="saldo">Valor do depósito inicial (opcional, padrão = 0)</param>
+        public Banco(int numeroConta, string titular, decimal saldo = 0)
         {
             NumeroConta = numeroConta;
             Titular = titular;
@@ -69,52 +60,56 @@ namespace SistemaBancario.Classes.Entidades
         }
 
         //Métodos
-        /// <summary>
-        ///Realiza um deposito na conta, aumentando o saldo
+        ///<summary>
+        ///Realiza um depósito na conta, aumentando o saldo da conta.
         /// </summary>
-        /// <param name="valor">Valor a ser depositado</param>
-        public void Depositar(double valor)
+        /// <param name="valor">Valor a ser depositado, deve ser positivo</param>
+        ///
+        public void Deposito(decimal valor)
         {
-            if (valor > 0)
+            if (valor <= 0)
             {
-                Saldo += valor;
-            }
-        }
-        //Metodos
-        /// <summary>
-        ///Realiza um deposito na conta, aumentando o saldo
-        /// <summary>
-        /// <param name="valor">Valor a ser depositado, dever ser positivo<param>
-        public void Deposito(double valor)
-        {
-            if (valor < 0)
-            {
-                Console.WriteLine("Valor de deposito deve ser positivo");
+                Console.WriteLine("Valor de depósito deve ser positivo");
                 return;
             }
 
             Saldo += valor;
 
-            Console.WriteLine($"Deposito de {valor:C} realizado com sucesso!!!!");
+            Console.WriteLine($"Depósito de {valor:C} realizado com sucessooooo!!!!");
         }
-        ///<summary> Realiza um saque na conta, diminuindo o saldo
-        ///Cobra automaticamente uma taxa de R$5,00 por cada saque
-        ///IMPORTANTE: Permite saldo negativo se nao houver fundos.
-        ///</summary>
-        /// <summary> 
-        /// <param name="valor">Valor a ser sacado, deve ser positivo , nao inclui a taxa de saque</param>
 
-        public void Saque(double valor)
+        ///<summary>
+        ///Realiza um saque na conta, diminuindo o saldo
+        ///Cobra automaticamente uma taxa de R$5.00 por saque.
+        ///IMPORTANTE: Permite saldo negativo se não houver fundos.
+        /// </summary>
+        /// <param name="valor">Valor a ser sacado(deve ser positivo, não inclui a taxa)</param>
+        public void Saque(decimal valor)
         {
-            if (valor < 0)
+            if (valor <= 0)
             {
                 Console.WriteLine("Valor de saque deve ser positivo");
                 return;
             }
-            Saldo -= valorTotal;
-            Console.WriteLine($"Saque de {valor:C} realizado com sucesso! Taxa de saque: {TaxaSaque:C}. Saldo atual: {Saldo:C}");
+
+            Saldo -= (valor + taxaSaque);
+            Console.WriteLine($"Saque de {valor:C} realizado com sucesso! Taxa de {taxaSaque:C} cobrada.");
+        }
+
+        ///<summary>
+        ///Exibe os dados da conta no console
+        ///Mostra número da conta, titular e saldo atual
+        /// </summary>
+        ///
+        public void ExibirDados()
+        {
+            Console.WriteLine("\n---Dados da conta---");
+            Console.WriteLine($"Conta: {NumeroConta}");
+            Console.WriteLine($"Titular: {Titular}");
+            Console.WriteLine($"Saldo: {Saldo:C}");
+            Console.WriteLine("--------------------\n");
         }
     }
-}   
+}
 
 
