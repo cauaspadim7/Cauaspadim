@@ -3,8 +3,15 @@
   <Class Name="SistemaBancario.Classes.Entidades.Banco">
     <Position X="8.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAACAgAAIAEAAAAAAAAAAAAAAAAAECAEAAYAAAAAAAA=</HashCode>
+      <HashCode>AAACAgAAIAEAAAAAAAAAAAAAAAAAAAAEAAYgAAAAAAA=</HashCode>
       <FileName>Classes\Entidades\Banco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaBancario.Classes.Contextos.BancoContext">
+    <Position X="12" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Classes\Contextos\BancoContext.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
