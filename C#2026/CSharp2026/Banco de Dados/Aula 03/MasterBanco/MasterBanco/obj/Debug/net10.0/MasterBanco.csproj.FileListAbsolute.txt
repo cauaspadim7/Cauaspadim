@@ -1,0 +1,6 @@
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Banco de Dados\Aula 03\MasterBanco\MasterBanco\obj\Debug\net10.0\MasterBanco.csproj.AssemblyReference.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Banco de Dados\Aula 03\MasterBanco\MasterBanco\obj\Debug\net10.0\MasterBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Banco de Dados\Aula 03\MasterBanco\MasterBanco\obj\Debug\net10.0\MasterBanco.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Banco de Dados\Aula 03\MasterBanco\MasterBanco\obj\Debug\net10.0\MasterBanco.AssemblyInfo.cs
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Banco de Dados\Aula 03\MasterBanco\MasterBanco\obj\Debug\net10.0\MasterBanco.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Banco de Dados\Aula 03\MasterBanco\MasterBanco\obj\Debug\net10.0\MasterBanco.sourcelink.json
