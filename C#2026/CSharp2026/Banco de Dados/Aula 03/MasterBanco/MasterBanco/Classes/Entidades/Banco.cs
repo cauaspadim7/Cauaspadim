@@ -30,7 +30,7 @@ namespace MasterBanco.Classes.Entidade
         }
 
         //Caminho do servidor onde está o banco de dados
-        private static string ConectarCaminho = @"Server = ECFP507D1319382\SQLEXPRESS; Database=Clodoaldo;Trusted_Connection=True;TrustServerCertificate=True;";
+        private static string ConectarCaminho = @"Server = ECFP507D1319381\SQLEXPRESS; Database = Clodoaldo; Trusted_Connection = True; TrustServerCertificate = True";
         //Operações CRUD
         //C - Create
 
@@ -85,5 +85,58 @@ namespace MasterBanco.Classes.Entidade
                 }
             }
         }
+
+        //U - Update
+        public static void ModificarConta(int id, string titular, int numeroConta, decimal saldo)
+        {
+            string consulta = "UPDATE Contas SET Titular = @titular, Numero_da_conta = @numeroConta, Saldo = @saldo WHERE Id = @id";
+            using (SqlConnection conexao = new SqlConnection(ConectarCaminho))
+            using (SqlCommand comando = new SqlCommand(consulta, conexao))
+            {
+                comando.Parameters.AddWithValue("@id", id);
+                comando.Parameters.AddWithValue("@titular", titular);
+                comando.Parameters.AddWithValue("@numeroConta", numeroConta);
+                comando.Parameters.AddWithValue("@saldo", saldo);
+
+                conexao.Open();
+                int resultado = comando.ExecuteNonQuery();
+
+                if (resultado > 0)
+                {
+                    Console.WriteLine("Contas atualizadas com sucesso!");
+                }
+                else
+                {
+                    Console.WriteLine("Conta não encontrada!");
+                }
+
+            }
+
+        }
+
+        //D - Delete
+        public static void DeletarConta(int id)
+        {
+            string consulta = "DELETE FROM Contas WHERE Id = @id";
+            using (SqlConnection conexao = new SqlConnection(ConectarCaminho))
+            using (SqlCommand comando = new SqlCommand(consulta, conexao))
+            {
+                comando.Parameters.AddWithValue("@Id", id);
+                conexao.Open();
+                int resultado = comando.ExecuteNonQuery();
+                if (resultado > 0)
+                {
+                    Console.WriteLine("Conta deletada com sucesso!");
+                }
+                else
+                {
+                    Console.WriteLine("Conta não encontrada");
+                }
+
+            }
+
+        }
+
     }
+
 }
