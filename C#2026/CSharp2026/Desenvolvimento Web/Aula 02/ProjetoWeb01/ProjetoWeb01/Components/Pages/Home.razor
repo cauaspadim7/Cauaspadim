@@ -1,10 +1,40 @@
 ﻿@page "/"
 
+@using ProjetoWeb01.Components.Pages.Parcias
+
+
 <PageTitle>Home</PageTitle>
+<CabecalhoPagina/>
+<!-- Isso é comentario em html-->
+<main class="corpo-pagina">
+    <div class="login-container">
+        </div class="login-cabecalho">
+        <h1 class=" login-titulo">Acesso ao WIFI</h1>
+        <p class="login-subtitulo">Sistema de gestao WIFI</p>
+        <div>
+            <form class="login-form">
+                <!-- Aviso: Implementar validação de campos -->
+                <div class="form-grupo">>
+                    <label>Email instituicional</label>
+                     <div class="input-w">
+                         <input type="email" id="email" class"form-input" placeholder="user@Dispatcher.senai.br"/>
+                     
+                </div>
+                   
+                </div>
+                <div class="form-grupo">
+                    <label>Senha</label>
+                    <div class="input-w">
+                        <input type="password" id="senha" class="form-input" placeholder="*******"/>
+                    </div>
+                </div>
+                <button type="button" id="btn-entrar" class="btn">
+                    Login
+                </button>
+            </form>
 
-<h1> SENAI AMERICANA </h1>
-<h2> KELWIN | FELIPE </h2>
-<p>Curso de backend</p>
-<a href="/home"> Aula 01 WEB </a>
+        </div>
+        </main>
 
-Welcome to your new app.
+
+<Rodape/>
