@@ -36,7 +36,8 @@ h1:focus {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
-/* Estilo cabeçalho */
+
+/*Estilo cabeçario*/
 .cabecalho {
     color: white;
     background-color: #e30613;
@@ -46,7 +47,8 @@ h1:focus {
     font-size: 3rem;
     font-family: sans-serif;
 }
-/* Estilo rodapé */
+
+/*Estilo rodapé */
 
 .footer {
     justify-content: center;
@@ -58,14 +60,14 @@ h1:focus {
     color: white;
 }
 
-.footer-texto {
+.footer-text {
     margin-top: 1.5rem;
     text-align: center;
     font-size: 0.75rem;
     color: white;
 }
 
-/* =========== Estilos da tela login ========= */
+/*====== Estilos da tela login ======*/
 .corpo-pagina {
     justify-content: center;
     align-items: center;
@@ -76,8 +78,8 @@ h1:focus {
 .login-container {
     background-color: white;
     padding: 2rem;
-    border-radius: 0.5rem;
-    box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1),0 10px 10px -5px rgba(0,0,0,0.04);
+    border-radius: 0,5rem;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
     border-top: 4px solid #b91d32;
     width: 100%;
     max-width: 28rem;
@@ -119,7 +121,7 @@ h1:focus {
     margin-bottom: 0.25rem;
 }
 
-.input-w {
+.imput-w {
     position: relative;
     border-radius: 0.375rem;
     box-shadow: 0 1px 2px 0 rgba(0,0,0,0.05);
@@ -175,3 +177,28 @@ h1:focus {
         transition: all 1s ease-in-out;
         scale: 1.1;
     }
+
+.link-cabecalho {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+body {
+    height: 100%;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
