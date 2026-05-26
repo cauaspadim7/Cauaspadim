@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjetoWeb01.Classes.Entidades.Admin">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Classes\Entidades\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoWeb01.Classes.Entidades.Aluno">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAQAAAABAAAAAAAAAgAAAgAAAA=</HashCode>
+      <FileName>Classes\Entidades\Aluno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoWeb01.Classes.Entidades.Cursos">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Entidades\Cursos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoWeb01.Classes.Entidades.Usuario">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAAAAAACAAAAAAAABAAAEAAAA=</HashCode>
+      <FileName>Classes\Entidades\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ProjetoWeb01.Classes.Enumeracoes.TipoRegra">
+    <Position X="13.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Classes\Enumeracoes\TipoRegra.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
