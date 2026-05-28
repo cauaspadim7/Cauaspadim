@@ -1,4 +1,5 @@
 ﻿using ProjetoWeb01.Classes.Enumeracoes;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ProjetoWeb01.Classes.Entidades
 {
@@ -9,7 +10,8 @@ namespace ProjetoWeb01.Classes.Entidades
         public string StatusWIFI { get; set; } = "Inativo";
 
         public string StatusAction { get; set; } = "Aguardando aprovação";
-        public Cursos CursoID { get; set; }
+        [NotMapped]
+        public int CursoID { get; set; }
 
         public TipoRegra TipoRegra { get; set; } = TipoRegra.Usuario;
     }

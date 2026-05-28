@@ -1,4 +1,11 @@
 using ProjetoWeb01.Components;
+using ProjetoWeb01.Classes.Entidades;
+using ProjetoWeb01.Dados;
+
+
+using var context = new AlunoContext();
+
+context.Database.EnsureCreated();
 
 var builder = WebApplication.CreateBuilder(args);
 
