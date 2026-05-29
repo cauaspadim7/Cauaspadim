@@ -9,10 +9,10 @@ namespace ProjetoWeb01.Classes.Entidades
 
         public string StatusWIFI { get; set; } = "Inativo";
 
-        public string StatusAction { get; set; } = "Aguardando aprovação";
-        [NotMapped]
+        public string StatusAction { get; set; } = "Aguardando Aprovação";
+
         public int CursoID { get; set; }
 
-        public TipoRegra TipoRegra { get; set; } = TipoRegra.Usuario;
+        public TipoRegra Regra { get; set; } = TipoRegra.Usuario;
     }
 }
