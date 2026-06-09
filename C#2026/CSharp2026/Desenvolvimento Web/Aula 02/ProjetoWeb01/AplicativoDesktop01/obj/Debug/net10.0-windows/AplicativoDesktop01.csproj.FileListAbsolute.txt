@@ -3,7 +3,6 @@ C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.runtimeconfig.json
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.dll
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.pdb
-C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.Form1.resources
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.csproj.GenerateResource.cache
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.AssemblyInfoInputs.cache
@@ -16,3 +15,5 @@ C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.genruntimeconfig.cache
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\ref\AplicativoDesktop01.dll
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.Properties.Resources.resources
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.TelaAdmin.resources
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.TelaLogin.resources

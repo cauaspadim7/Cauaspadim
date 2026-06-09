@@ -7,12 +7,17 @@ namespace AplicativoDesktop01
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
         }
@@ -28,24 +33,22 @@ namespace AplicativoDesktop01
             if (comparacao1 && comparacao2)
             {
                 MessageBox.Show("Usuario e senha corretos!");
+                this.Hide();
+                using (var telaAdm = new TelaAdmin())
+                {
+                    telaAdm.ShowDialog();
+                }
+                this.Close();
             }
             else
             {
-                MessageBox.Show("Usuário ou senha incorretos.");
-
+                MessageBox.Show("Usuario ou senhas incorretos!");
             }
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void CX(object sender, EventArgs e)
         {
 
         }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-       
     }
 }

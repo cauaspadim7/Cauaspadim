@@ -1,6 +1,6 @@
-wwwroot\app.css
-wwwroot\stylecadastro.css
 wwwroot\stylelista.css
+wwwroot\stylecadastro.css
+wwwroot\app.css
 Components\Layout\ReconnectModal.razor.js
 C:\Users\FIC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.6\build\..\_framework\blazor.web.js
 C:\Users\FIC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.6\build\..\_framework\blazor.server.js

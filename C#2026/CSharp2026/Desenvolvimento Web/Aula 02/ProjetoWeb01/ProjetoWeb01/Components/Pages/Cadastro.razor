@@ -12,28 +12,39 @@
         <h2 class="cadastro-cabecalho">
             Novo usuário
         </h2>
+        @if (!string.IsNullOrEmpty(mensagem_de_Erro))
+        {
+            <div>@mensagem_de_Erro</div>
+        }
+
+        @if (!string.IsNullOrEmpty(mensagem_de_Sucesso))
+        {
+            <div>@mensagem_de_Sucesso</div>
+        }
+
 
         <!-- Acionar evento 'submit' no código C# p/ capturar os dados -->
-        <form class="cadastro-form">
+        <form class="cadastro-form" @onsubmit="CadastrarAluno">
             <div class="form-grupo">
                 <label class="form-label">Nome do usuário</label>
-                <input type="text" class="form-input" />
+                <input type="text" class="form-input" @bind="novoAluno.Nome" />
             </div>
             <div class="form-grupo">
                 <label class="form-label">RA</label>
-                <input type="number" class="form-input" />
+                <input type="number" class="form-input" @bind="novoAluno.RA" />
             </div>
             <div class="form-grupo">
                 <label class="form-label">Curso</label>
-                <select class="form-input">
-                    <option value="">Selecione...</option>
-                    <option>Desenvolvedor BackEnd</option>
-                    <option>Programação em Java</option>
-                    <option>Fundamentos de Python</option>
+                <select class="form-input" @bind="novoAluno.CursoID">
+                    <option value="0">Selecione...</option>
+                    @foreach (var cursoItem in curso.Curso)
+                    {
+                        <option value="@cursoItem.Key">@cursoItem.Value</option>
+                    }
                 </select>
             </div>
             <button type="submit" class="btn-cadastro">
-                Cadastrar
+                @(cadastrando ? "Cadastrando..." : "Cadastrar")
             </button>
         </form>
 
@@ -69,10 +80,15 @@
                 mensagem_de_Erro = resultado.Mensagem;
             }
         }
-        catch
+        finally
         {
-           
+            cadastrando = false;
         }
+    }
+
+    protected override void OnInitialized()
+    {
+        novoAluno = new Aluno();
     }
 
 }

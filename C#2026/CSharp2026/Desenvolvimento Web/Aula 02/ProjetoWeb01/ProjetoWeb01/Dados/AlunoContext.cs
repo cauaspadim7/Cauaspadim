@@ -27,9 +27,10 @@ namespace ProjetoWeb01.Dados
                   entity.Property(e => e.RA).IsRequired(); //RA
                   entity.Property(e => e.StatusAction).IsRequired(); //StatusAction
                   entity.Property(e => e.StatusWIFI).IsRequired();//StatusWIFI
-                  
+
+
               }
-                
+
                 );
         }
     }

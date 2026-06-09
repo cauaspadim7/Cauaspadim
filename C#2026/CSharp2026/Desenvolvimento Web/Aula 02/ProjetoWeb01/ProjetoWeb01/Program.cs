@@ -3,6 +3,7 @@ using ProjetoWeb01.Classes.Entidades;
 using ProjetoWeb01.Dados;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Data.SqlClient;
+using ProjetoWeb01.Classes.Serv;
 
 using var context = new AlunoContext();
 
@@ -16,10 +17,11 @@ builder.Services.AddRazorComponents()
 
 builder.Services.AddDbContext<AlunoContext>();
 
+builder.Services.AddScoped<AlunoService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error", createScopeForErrors: true);
@@ -35,4 +37,4 @@ app.MapStaticAssets();
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
 
-app.Run();
+app.Run();  

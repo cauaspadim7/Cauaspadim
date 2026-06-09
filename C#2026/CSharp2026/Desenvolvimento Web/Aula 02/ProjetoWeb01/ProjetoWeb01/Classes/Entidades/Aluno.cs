@@ -13,6 +13,10 @@ namespace ProjetoWeb01.Classes.Entidades
 
         public int CursoID { get; set; }
 
-        public TipoRegra Regra { get; set; } = TipoRegra.Usuario;
+        // Construtor para garantir que Regra sempre tenha um valor padrão
+        public Aluno()
+        {
+            Regra = TipoRegra.Usuario;
+        }
     }
 }

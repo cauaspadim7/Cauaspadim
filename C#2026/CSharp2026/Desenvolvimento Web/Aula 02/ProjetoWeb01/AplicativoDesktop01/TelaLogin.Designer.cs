@@ -68,7 +68,7 @@
             textBox1.Size = new Size(282, 23);
             textBox1.TabIndex = 2;
             textBox1.TextAlign = HorizontalAlignment.Center;
-            textBox1.TextChanged += textBox1_TextChanged;
+            //textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox2
             // 
@@ -114,7 +114,7 @@
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Tela de Login";
-            Load += Form1_Load;
+           // Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

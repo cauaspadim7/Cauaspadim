@@ -1,4 +1,5 @@
 ﻿using ProjetoWeb01.Classes.Enumeracoes;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ProjetoWeb01.Classes.Entidades
 {
@@ -11,6 +12,7 @@ namespace ProjetoWeb01.Classes.Entidades
         public string Nome { get; set; }
         public string Email { get; set; }
         public string Senha { get; set; }
-        public TipoRegra Regra { get; set; }
+        [Column("TipoRegra")]
+        public TipoRegra Regra { get; set; } = TipoRegra.Usuario;
     }
 }
