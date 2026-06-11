@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ProjetoWeb01.Classes.Entidades;
+using ProjetoWeb01.Classes.Enumeracoes;
 
 
 namespace ProjetoWeb01.Dados
@@ -13,6 +14,9 @@ namespace ProjetoWeb01.Dados
             optionsBuilder.UseSqlServer(
                @"Server =ECFP507D1319382\SQLEXPRESS02; Database = Aluno;Trusted_Connection = True; TrustServerCertificate=True;"
              );
+
+            // Adicionar interceptor para garantir que Regra nunca seja null
+            optionsBuilder.AddInterceptors(new AlunoSaveChangesInterceptor());
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -27,8 +31,11 @@ namespace ProjetoWeb01.Dados
                   entity.Property(e => e.RA).IsRequired(); //RA
                   entity.Property(e => e.StatusAction).IsRequired(); //StatusAction
                   entity.Property(e => e.StatusWIFI).IsRequired();//StatusWIFI
-
-
+                  entity.Property(e => e.Regra)
+                      .IsRequired()
+                      .HasColumnName("TipoRegra")
+                      .HasDefaultValueSql("0") // SQL DEFAULT value
+                      .HasConversion<int>(); // Converter enum para int
               }
 
                 );

@@ -18,6 +18,8 @@ builder.Services.AddRazorComponents()
 builder.Services.AddDbContext<AlunoContext>();
 
 builder.Services.AddScoped<AlunoService>();
+builder.Services.AddScoped<AuthService>();
+
 
 var app = builder.Build();
 

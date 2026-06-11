@@ -17,6 +17,8 @@ namespace ProjetoWeb01.Classes.Entidades
         public Aluno()
         {
             Regra = TipoRegra.Usuario;
+            Email = Email ?? string.Empty;
+            Senha = Senha ?? string.Empty;
         }
     }
 }

@@ -21,7 +21,6 @@ namespace ProjetoWeb01.Classes.Serv
         {
             try
             {
-                
                 //Validação básica de cadastro
                 if (string.IsNullOrWhiteSpace(aluno.Nome))
                 {
@@ -31,7 +30,7 @@ namespace ProjetoWeb01.Classes.Serv
                         Mensagem = "Por favor, informe o nome válido de aluno"
                     };
                 }
-                
+
                 if (aluno.RA <= 0)
                 {
                     return new ResultadoCadastro
@@ -40,7 +39,7 @@ namespace ProjetoWeb01.Classes.Serv
                         Mensagem = "Por favor, informe um RA válido"
                     };
                 }
-                
+
                 if (aluno.CursoID <= 0)
                 {
                     return new ResultadoCadastro
@@ -59,16 +58,16 @@ namespace ProjetoWeb01.Classes.Serv
                         Mensagem = "Já existe um aluno cadastrado com este RA."
                     };
                 }
-                
+
                 //Definir os status padrão pra novos cadastros
                 aluno.StatusWIFI = "Inativo";
                 aluno.StatusAction = "Aguardando aprovação";
-                
+
                 if (string.IsNullOrWhiteSpace(aluno.Email))
                 {
                     aluno.Email = $"ra{aluno.RA}@aluno.local";
                 }
-                
+
                 if (string.IsNullOrWhiteSpace(aluno.Senha))
                 {
                     aluno.Senha = aluno.RA.ToString();
@@ -79,7 +78,7 @@ namespace ProjetoWeb01.Classes.Serv
 
                 //Adicionar o aluno ao banco de dados
                 dbContext.Alunos.Add(aluno);
-                
+
                 await dbContext.SaveChangesAsync();
                 
 
