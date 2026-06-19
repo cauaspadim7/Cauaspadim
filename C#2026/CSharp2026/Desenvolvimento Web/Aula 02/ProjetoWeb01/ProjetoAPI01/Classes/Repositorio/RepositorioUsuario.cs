@@ -23,11 +23,10 @@ namespace ProjetoAPI01.Classes.Repositorio
             await conexao.OpenAsync(cancellationToken);
 
             const string comandoSql = """
-
-SELECT TOP 1 Id, Nome, Regra FROM Alunos
-WHERE Email = @Email AND Senha = @Senha";
-
-""";
+                SELECT TOP 1 Id, Nome, Regra 
+                FROM Alunos
+                WHERE Email = @Email AND Senha = @Senha;
+                """;
             await using var comando = new SqlCommand(comandoSql, conexao);
             comando.Parameters.AddWithValue("@Email", email);
             comando.Parameters.AddWithValue("@Senha", senha);

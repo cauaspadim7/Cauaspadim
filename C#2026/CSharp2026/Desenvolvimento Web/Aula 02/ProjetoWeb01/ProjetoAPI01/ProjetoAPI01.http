@@ -1,4 +1,4 @@
-@ProjetoAPI01_HostAddress = http://localhost:5038
+@ProjetoAPI01_HostAddress = http://localhost:5000
 
 POST {{ProjetoAPI01_HostAddress}}/api/usuarios/login
 Content-Type: application/json

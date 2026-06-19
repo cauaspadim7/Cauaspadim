@@ -11,7 +11,7 @@ namespace AplicativoDesktop01
     public partial class TelaLogin : Form
     {
         private static readonly HttpClient clienteHttp = new();
-        private const string urlApiLogin = "http://localhost:5085/api/usuarios/login";
+        private const string urlApiLogin = "http://localhost:5000/api/usuarios/login";
     
 public TelaLogin()
         {
@@ -45,7 +45,7 @@ public TelaLogin()
 
                 var resultado = await resposta.Content.ReadFromJsonAsync<LoginResponseDTO>();
 
-                if (resultado.Regra != 1)
+                if (resultado.Regra == 1)
                 {
                     MessageBox.Show("Acesso Negado. Este usuario não tem privilégios administrativo");
                     return;
@@ -61,9 +61,9 @@ public TelaLogin()
 
             }
 
-            catch (HttpRequestException)
+            catch (HttpRequestException ex)
             {
-                MessageBox.Show("Não foi possivel conectar na API");
+                MessageBox.Show($"Não foi possivel conectar na API: {ex.Message}");
             }
         }
 

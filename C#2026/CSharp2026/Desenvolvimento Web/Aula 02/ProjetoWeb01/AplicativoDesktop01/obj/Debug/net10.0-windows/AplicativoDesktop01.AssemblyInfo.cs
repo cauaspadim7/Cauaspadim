@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AplicativoDesktop01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b5e8daa621ad3a3696262d2bafeb3efdff2d3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ce1afd03fdbf48eadb124fe921ddb4272edcde0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AplicativoDesktop01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AplicativoDesktop01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
