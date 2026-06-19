@@ -131,8 +131,8 @@ C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\7iqoh73iqq-{0}-b2tpcr4a4r-b2tpcr4a4r.gz
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\su78sbfzsv-{0}-u9hnc1csp9-u9hnc1csp9.gz
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\enje682nmu-{0}-abdmv1u4y3-abdmv1u4y3.gz
-C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\7f2sw5bmec-{0}-qcnkhbt5lj-qcnkhbt5lj.gz
-C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\16dzqwryzi-{0}-12rnbzdyyc-12rnbzdyyc.gz
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\7f2sw5bmec-{0}-ne14ti1q68-ne14ti1q68.gz
+C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\16dzqwryzi-{0}-ig5xotzpx5-ig5xotzpx5.gz
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\jefhu7zkik-{0}-b669zg7ox7-b669zg7ox7.gz
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\vg4axpekrv-{0}-b669zg7ox7-b669zg7ox7.gz
 C:\Users\FIC\Documents\Cauaspadim\C#2026\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\staticwebassets.build.json

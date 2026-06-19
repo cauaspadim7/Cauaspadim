@@ -13,7 +13,7 @@ builder.Services.ConfigureHttpJsonOptions(options =>
     options.SerializerOptions.TypeInfoResolverChain.Insert(0, AppJsonSerializerContext.Default);
 });
 
-builder.Services.AddScoped(_ => RepositorioUsuario(stringConexaoBancoAluno));
+builder.Services.AddScoped(_ => new  RepositorioUsuario(stringConexaoBancoAluno));
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();

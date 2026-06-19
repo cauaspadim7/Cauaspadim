@@ -77,7 +77,7 @@
             textBox2.Size = new Size(282, 23);
             textBox2.TabIndex = 3;
             textBox2.UseSystemPasswordChar = true;
-            textBox2.TextChanged += textBox2_TextChanged;
+      
             // 
             // button1
             // 
